@@ -10,7 +10,7 @@ namespace Delegate_Event
             BankAccount account = new BankAccount()
             {
                 Owner = "Mirsaid Seyidli",
-                Balance = 4000,
+                Balance = 6300,
                 İban = "AZE123456789",
                 BankName = "Kapital Bank"
             };
